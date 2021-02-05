@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_vector__7_"
+        android:id="@+id/action_home"
+        android:title="" />
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_vector__6_"
+        android:id="@+id/action_perevod"
+        android:title=""
+        app:labelVisibilityMode="unlabeled"/>
+    <item
+        app:showAsAction="always"
+        android:id="@+id/action_cards"
+        android:icon="@drawable/ic_credit_card"
+        android:title="" />
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_vector__9_"
+        android:id="@+id/action_chat"
+        android:title="" />
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_user__1_"
+        android:id="@+id/action_profile"
+        android:title="" />
+
+</menu>
